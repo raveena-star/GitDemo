@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Madhu/Mavenjava">
+        <classes>
+            <class name="qaclickacademy.AppiumTest">
+                <methods>
+                    <include name="NativeAppAndroid"/>
+                    <include name="IOSApps"/>
+                </methods>
+            </class>
+            <class name="qaclickacademy.RestAPITest">
+                <methods>
+                    <include name="Postjira"/>
+                    <include name="deleteTwitter"/>
+                </methods>
+            </class>
+            <class name="qaclickacademy.SeleniumTest">
+                <methods>
+                    <include name="elementsUi"/>
+                    <include name="BrowserAutomation"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

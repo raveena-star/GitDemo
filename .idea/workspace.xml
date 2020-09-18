@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="031e1060-8d08-440c-9596-1381b2893883" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="Smoke" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XV5H0FzfhPcpABelhKPKmhTBOK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Madhu\Mavenjava" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.Mavenjava [test] (1)">
+    <configuration name="Mavenjava [test] (1)" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Mavenjava [test]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-Dtest=AppiumTest" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="java/qaclickacademy/AppiumTest.java" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Mavenjava [test][1]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-Dtest=AppiumTest" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/src/test/java/qaclickacademy/AppiumTest.java" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="single test" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-Dtest=AppiumTest" />
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.Mavenjava [test][1]" />
+      <item itemvalue="Maven.Mavenjava [test]" />
+      <item itemvalue="Maven.single test" />
+      <item itemvalue="Maven.Mavenjava [test] (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.Mavenjava [test] (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="031e1060-8d08-440c-9596-1381b2893883" name="Default Changelist" comment="" />
+      <created>1581118329590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581118329590</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="0" key="#Mavenjava_[test]" timestamp="1581382052633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="277" y="0" key="#Mavenjava_[test]/0.0.1366.728@0.0.1366.728" timestamp="1581382052633" />
+    <state x="277" y="0" key="#Mavenjava_[test]_(1)" timestamp="1581385322757">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="277" y="0" key="#Mavenjava_[test]_(1)/0.0.1366.728@0.0.1366.728" timestamp="1581385322757" />
+    <state x="109" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581381803118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="109" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581381803118" />
+    <state x="70" y="0" key="FileChooserDialogImpl" timestamp="1581384321089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="70" y="0" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581384321089" />
+    <state width="1322" height="172" key="GridCell.Tab.0.bottom" timestamp="1581387424555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581387424555" />
+    <state width="1322" height="172" key="GridCell.Tab.0.center" timestamp="1581387424555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581387424555" />
+    <state width="1322" height="172" key="GridCell.Tab.0.left" timestamp="1581387424555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581387424555" />
+    <state width="1322" height="172" key="GridCell.Tab.0.right" timestamp="1581387424555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581387424555" />
+    <state x="366" y="0" key="SettingsEditor" timestamp="1581707568571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581707568571" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1581806573658">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581806573658" />
+    <state x="388" y="528" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581119644334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="388" y="528" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1581119644334" />
+    <state x="65" y="0" key="new project wizard" timestamp="1581806813605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581806813605" />
+  </component>
+</project>
